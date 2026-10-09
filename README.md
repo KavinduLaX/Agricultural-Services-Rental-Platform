@@ -107,7 +107,7 @@ Install the following before running the project:
 
 ```bash
 git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <PROJECT_FOLDER>
+cd <PROJECT_FOLDER_NAME>
 ```
 
 ### 2. Configure the Backend
