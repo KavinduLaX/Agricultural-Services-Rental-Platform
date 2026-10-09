@@ -106,8 +106,8 @@ Install the following before running the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <PROJECT_FOLDER>
+git clone https://github.com/KavinduLaX/Agricultural-Services-Rental-Platform.git
+cd Agricultural-Services-Rental-Platform
 ```
 
 ### 2. Configure the Backend
