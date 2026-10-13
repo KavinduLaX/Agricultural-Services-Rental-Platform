@@ -1,5 +1,13 @@
 # GoviSaviya — Agricultural Services Rental Platform
 
+<p align="center">
+  <img
+    src="docs/images/govisaviya-cover.png"
+    alt="GoviSaviya Agricultural Services Rental Platform"
+    width="100%"
+  />
+</p>
+
 GoviSaviya is a web-based agricultural services platform designed to connect farmers with agricultural machinery owners and service providers. It aims to make agricultural service discovery and booking more convenient through a centralized platform.
 
 The system provides a React-based user interface, a REST API built with Node.js and Express, and MongoDB for data persistence.
